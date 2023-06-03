@@ -38,8 +38,8 @@ pre code{
 }
 
 .book {
-	position: relative;
 	float: right;
+	position: relative;
 }
 
 .topnav a:hover {

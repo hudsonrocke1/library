@@ -39,6 +39,7 @@ pre code{
 
 .book {
 	float: right;
+	width: 56px;
 	position: relative;
 }
 

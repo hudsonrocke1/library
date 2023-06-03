@@ -37,6 +37,11 @@ pre code{
 	font-family: monospace;
 }
 
+.book {
+	position: relative;
+	float: right;
+}
+
 .topnav a:hover {
 	background-color: black;
 	color: white;
